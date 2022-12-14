@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     override func printContent(_ sender: Any?) {
-        
+        printContent(Any?)
     }
 }
 
